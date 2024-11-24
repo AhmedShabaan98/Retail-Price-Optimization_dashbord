@@ -13,7 +13,7 @@ Retail Price Optimization: https://www.kaggle.com/datasets/suddharshan/retail-pr
 6.	Product Performance: Tracks the performance of individual products or categories based on their pricing.
 
 ## Benefits:
-•	Data-Driven Decisions: Helps retailers make pricing decisions based on data rather than intuition.
-•	Increased Profitability: Optimizes prices to maximize profits while remaining competitive.
-•	Improved Customer Satisfaction: Ensures prices are set at levels that attract and retain customers.
-•	Efficiency: Streamlines the pricing process by providing actionable insights and reducing the need for manual analysis.
+1.	Data-Driven Decisions: Helps retailers make pricing decisions based on data rather than intuition.
+2.	Increased Profitability: Optimizes prices to maximize profits while remaining competitive.
+3.	Improved Customer Satisfaction: Ensures prices are set at levels that attract and retain customers.
+4.	Efficiency: Streamlines the pricing process by providing actionable insights and reducing the need for manual analysis.
